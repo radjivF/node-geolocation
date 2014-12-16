@@ -1,5 +1,6 @@
 Node-Geolocalisation
 ====================
+How to use google maps knowledge with node.js (in progress) 
 
 ## Installation (nodejs library)
 
