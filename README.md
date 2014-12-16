@@ -1,18 +1,20 @@
-interaction between Node and the GoogleMaps API
-=========================
+Node-Geolocalisation
+====================
 
-This some interaction example how to use GoogleMaps API with Nodejs.
+## Installation (nodejs library)
 
-Every files in lib folder can work independant.
+    npm install node-geocoder
 
-But for the Example folder, you have a simple web application is working in a real case.
-Don't forget to install the package for the web application:
+## Usage example
+
 ```
-npm install
+distanceBetweenTwoCoord('-1,-2','3,4');
 ```
-and in your browser
 ```
-http://localhost:3000/
+adressToCoord('Paris, France','New-York city');
+```
+```
+distanceBetweenTwoAdress('Paris, France','New-York city');
 ```
 
-I'm still building this repository, so please wait. thanks
+Still in Alpha
