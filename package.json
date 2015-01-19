@@ -1,6 +1,6 @@
 {
   "name": "node-geolocalisation",
-  "version": "0.12.0",
+  "version": "1.12.0",
   "description": "Node Geolocalisation, node geolocalisation library, based google maps",
   "main": "index.js",
   "scripts": {
