@@ -17,5 +17,3 @@ adressToCoord('Paris, France');
 ```
 distanceBetweenTwoAdress('Paris, France','New-York city');
 ```
-
-Still in Alpha
