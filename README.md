@@ -12,7 +12,7 @@ How to use google maps knowledge with node.js (in progress)
 distanceBetweenTwoCoord('-1,-2','3,4');
 ```
 ```
-adressToCoord('Paris, France','New-York city');
+adressToCoord('Paris, France');
 ```
 ```
 distanceBetweenTwoAdress('Paris, France','New-York city');
