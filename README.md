@@ -4,7 +4,7 @@ How to use google maps knowledge with node.js (in progress)
 
 ## Installation (nodejs library)
 
-    npm install node-geocoder
+    npm install
 
 ## Usage example
 
