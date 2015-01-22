@@ -1,12 +1,7 @@
 {
   "name": "node-geolocalisation",
   "version": "0.12.0",
-  "description": "Node Geolocalisation, node geolocalisation library, based google maps",
-  "main": "index.js",
-  "scripts": {
-  },
-  "bin": {
-  },
+  "description": "Simple Node Geolocalisation based google maps API technologie",
   "repository": {
     "type": "git",
     "url": "https://github.com/radjivf/node-geolocalisation.git"
@@ -18,7 +13,9 @@
     "maps"
   ],
   "author": {
-    "name": "radjivf"
+    "name": "radjivf",
+    "email":"carrereradjiv@yahoo.fr",
+    "personal-website":"about.me/radjivf"
   },
   "license": "MIT",
   "bugs": {
@@ -28,10 +25,9 @@
     "node-geocoder": "^2.12.0",
     "google-distance": "^0.2.1"
   },
-  "devDependencies": {
-  },
+  "main": "./lib/geolocalisation.js",
   "readme": "# node-geolocalisation\n\n",
   "readmeFilename": "README.md",
   "homepage": "https://github.com/radjivf/node-geolocalisation",
-  "_id": "node-geolocalisation@1.0.0"
+  "_id": "node-geolocalisation@0.12.0"
 }
