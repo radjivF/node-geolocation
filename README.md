@@ -1,9 +1,10 @@
 Node-Geolocalisation
 ====================
+How to use google maps knowledge with node.js (in progress) 
 
 ## Installation (nodejs library)
 
-    npm install node-geocoder
+    npm install
 
 ## Usage example
 
@@ -11,10 +12,8 @@ Node-Geolocalisation
 distanceBetweenTwoCoord('-1,-2','3,4');
 ```
 ```
-adressToCoord('Paris, France','New-York city');
+adressToCoord('Paris, France');
 ```
 ```
 distanceBetweenTwoAdress('Paris, France','New-York city');
 ```
-
-Still in Alpha
