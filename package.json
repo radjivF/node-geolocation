@@ -1,7 +1,7 @@
 {
   "name": "node-geolocalisation",
-  "version": "1.15.1",
-  "description": "Simple Node Geolocalisation based google maps API technologie",
+  "version": "1.15.2",
+  "description": "Simple Node Geolocalisation based google maps API technology",
   "repository": {
     "type": "git",
     "url": "https://github.com/radjivf/node-geolocalisation.git"
@@ -28,7 +28,7 @@
   "main": "./lib/geolocalisation.js",
   "files": [
     "LICENSE",
-    "Readme.md"
+    "README.md"
   ],
   "homepage": "https://github.com/radjivf/node-geolocalisation",
   "_id": "node-geolocalisation@0.12.0"
