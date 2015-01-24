@@ -1,12 +1,12 @@
-Node-Geolocalisation
+Node-geolocation
 ====================
 How to use google maps knowledge with node.js 
-https://www.npmjs.com/package/node-geolocalisation
+https://www.npmjs.com/package/node-geolocation
 
 ## Installation
 
 ```
-    npm install node-geolocalisation
+    npm install node-geolocation
 ```
 
 ## Usage example
