@@ -1,7 +1,7 @@
 {
   "name": "node-geolocation",
-  "version": "1.15.9",
-  "description": "Simple Node Geolocalisation based google maps API technology",
+  "version": "1.15.11",
+  "description": "Simple Node Geolocation library based google maps API technology",
   "repository": {
     "type": "git",
     "url": "https://github.com/radjivC/node-geolocation.git"
@@ -33,14 +33,14 @@
     "node-geocoder": "^2.12.0",
     "google-distance": "^0.2.1"
   },
-  "main": "./lib/geolocalisation.js",
+  "main": "./lib/geolocation.js",
   "files": [
     "LICENSE",
     "README.md"
   ],
-  "homepage": "https://github.com/radjivC/node-geolocalisation",
-  "_id": "node-geolocalisation@1.15.2",
-  "readme": "Node-Geolocalisation\n====================\nHow to use google maps knowledge with node.js \nhttps://www.npmjs.com/package/node-geolocalisation\n\n## Installation\n\n```\n    npm install node-geolocalisation\n```\n\n## Usage example\n\n```\ndistanceBetweenTwoCoord('-1,-2','3,4');\n```\n```\nadressToCoord('Paris, France');\n```\n```\ndistanceBetweenTwoAdress('Paris, France','New-York city');\n```\n\nEnjoy !!!\n",
+  "homepage": "https://github.com/radjivC/node-geolocation",
+  "_id": "node-geolocation@1.15.2",
+  "readme": "Node-geolocation\n====================\nHow to use google maps knowledge with node.js \nhttps://www.npmjs.com/package/node-geolocation\n\n## Installation\n\n```\n    npm install node-geolocation\n```\n\n## Usage example\n\n```\ndistanceBetweenTwoCoord('-1,-2','3,4');\n```\n```\nadressToCoord('Paris, France');\n```\n```\ndistanceBetweenTwoAdress('Paris, France','New-York city');\n```\n\nEnjoy !!!\n",
   "readmeFilename": "README.md",
-  "_id": "node-geolocalisation@0.12.0"
+  "_id": "node-geolocation@0.12.0"
 }
