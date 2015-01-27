@@ -22,3 +22,9 @@ distanceBetweenTwoAdress('Paris, France','New-York city');
 ```
 
 Enjoy !!!
+
+
+## Licence
+
+MIT License. See LICENSE for details.
+
