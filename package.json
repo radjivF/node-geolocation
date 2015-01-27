@@ -1,6 +1,6 @@
 {
   "name": "node-geolocation",
-  "version": "1.15.8",
+  "version": "1.15.9",
   "description": "Simple Node Geolocalisation based google maps API technology",
   "repository": {
     "type": "git",
@@ -8,6 +8,14 @@
   },
   "keywords": [
     "geolocalisation",
+    "geolocation",
+    "location",
+    "coordinates",
+    "adress",
+    "latitude",
+    "longitude",
+    "GPS",
+    "gps",
     "geo",
     "google",
     "maps"
