@@ -1,5 +1,8 @@
 Node-geolocation
 ====================
+
+[![NPM](https://nodei.co/npm/node-geolocation.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/node-geolocation/)
+
 How to use google maps knowledge with node.js 
 https://www.npmjs.com/package/node-geolocation
 
