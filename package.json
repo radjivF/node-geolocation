@@ -1,6 +1,6 @@
 {
   "name": "node-geolocation",
-  "version": "1.15.11",
+  "version": "1.15.12",
   "description": "Simple Node Geolocation library based on google maps API technology",
   "repository": {
     "type": "git",
