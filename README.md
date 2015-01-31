@@ -20,13 +20,13 @@ var geolocation = require('node-geolocation');
 ## Usage example
 
 ```
-distanceBetweenTwoCoord('-1,-2','3,4');
+var distance = distanceBetweenTwoCoord('-1,-2','3,4');
 ```
 ```
-adressToCoord('Paris, France');
+var coord =  adressToCoord('Paris, France');
 ```
 ```
-distanceBetweenTwoAdress('Paris, France','New-York city');
+var distance = distanceBetweenTwoAdress('Paris, France','New-York city');
 ```
 
 Enjoy !!!
