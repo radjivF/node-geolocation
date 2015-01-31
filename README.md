@@ -6,15 +6,15 @@ Node-geolocation
 How to use google maps knowledge with node.js 
 https://www.npmjs.com/package/node-geolocation
 
-## Minimun to use 
-```
-var geolocation = require('node-geolocation');
-```
-
 ## Installation
 
 ```
     npm install node-geolocation
+```
+
+## Minimun to use 
+```
+var geolocation = require('node-geolocation');
 ```
 
 ## Usage example
