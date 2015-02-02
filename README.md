@@ -9,30 +9,29 @@ https://www.npmjs.com/package/node-geolocation
 ## Installation
 
 ```
-    npm install node-geolocation
+npm install node-geolocation
 ```
+## Usage example
 
-## Minimun to use 
+### Minimun to use 
 ```
 var geolocation = require('node-geolocation');
 ```
 
-## Usage example
+### Distance function
 
 ```
-var distance = distanceBetweenTwoCoord('-1,-2','3,4');
+var distance = geolocation.distanceBetweenTwoCoord('-1,-2','3,4');
 ```
 ```
-var coord =  adressToCoord('Paris, France');
+var coord =  geolocation.adressToCoord('Paris, France');
 ```
 ```
-var distance = distanceBetweenTwoAdress('Paris, France','New-York city');
+var distance = geolocation.distanceBetweenTwoAdress('Paris, France','New-York city');
 ```
-
-Enjoy !!!
-
 
 ## Licence
 
 MIT License. See LICENSE for details.
 
+Enjoy !!!
