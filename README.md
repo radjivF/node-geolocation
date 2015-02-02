@@ -22,12 +22,16 @@ var geolocation = require('node-geolocation');
 
 ```
 var distance = geolocation.distanceBetweenTwoCoord('-1,-2','3,4');
+//get distance between two coord
 ```
 ```
 var coord =  geolocation.adressToCoord('Paris, France');
+//get latitude and longitude 
 ```
 ```
 var distance = geolocation.distanceBetweenTwoAdress('Paris, France','New-York city');
+//get distance between two adress 
+
 ```
 
 ## Licence
