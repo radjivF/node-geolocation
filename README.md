@@ -3,8 +3,8 @@ Node-geolocation
 
 [![NPM](https://nodei.co/npm/node-geolocation.png?downloads=true&downloadRank=true)](https://nodei.co/npm/node-geolocation/)
 [![NPM](https://nodei.co/npm-dl/node-geolocation.png?months=3&height=3)](https://nodei.co/npm/node-geolocation/)
-How to use google maps knowledge with node.js 
 
+How to use google maps knowledge with node.js 
 https://www.npmjs.com/package/node-geolocation
 
 ## Installation
