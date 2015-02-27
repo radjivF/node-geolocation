@@ -1,23 +1,16 @@
 language: node_js
 node_js:
 - '0.10'
-os:
-  - osx
 cache:
   directories:
   - node_modules
 before_install:
   - npm install
 after_success:
-  - grunt build
 before_deploy:
 deploy:
-  provider: releases
-  skip_cleanup: true
-  api-key: $OAUTH_TOKEN
   file:
     - release/1.15.12.zip
-
   on:
     tags: false
     branch: master
