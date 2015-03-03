@@ -4,7 +4,7 @@ Node-geolocation
 [![NPM](https://nodei.co/npm/node-geolocation.png?downloads=true&downloadRank=true)](https://nodei.co/npm/node-geolocation/)
 [![NPM](https://nodei.co/npm-dl/node-geolocation.png?months=3&height=3)](https://nodei.co/npm/node-geolocation/)
 
-[![Build Status](https://travis-ci.org/radjivC/node-geolocation.svg?branch=master)](https://travis-ci.org/radjivC/node-geolocation)
+[![Build Status](https://travis-ci.org/radjivC/node-geolocation.svg?branch=master)](https://travis-ci.org/radjivC/node-geolocation) [![Dependencies Status](https://david-dm.org/radjivC/node-geolocation.svg)]  (https://david-dm.org/radjivC/node-geolocation)
 
 How to use google maps knowledge with node.js 
 https://www.npmjs.com/package/node-geolocation
