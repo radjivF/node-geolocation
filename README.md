@@ -5,7 +5,7 @@ Node-geolocation
 [![NPM](https://nodei.co/npm-dl/node-geolocation.png?months=3&height=3)](https://nodei.co/npm/node-geolocation/)
 
 [![GitHub version](https://badge.fury.io/gh/radjivC%2Fnode-geolocation.svg)](http://badge.fury.io/gh/radjivC%2Fnode-geolocation)  [![Build Status](https://travis-ci.org/radjivC/node-geolocation.svg?branch=master)](https://travis-ci.org/radjivC/node-geolocation) [![Dependencies Status](https://david-dm.org/radjivC/node-geolocation.svg)]  (https://david-dm.org/radjivC/node-geolocation)
-[![Code Climate](https://codeclimate.com/github/radjivC/node-geolocation/badges/gpa.svg)](https://codeclimate.com/github/radjivC/node-geolocation) [![Test Coverage](https://codeclimate.com/github/radjivC/node-geolocation/badges/coverage.svg)](https://codeclimate.com/github/radjivC/node-geolocation)
+[![Code Climate](https://codeclimate.com/github/radjivC/node-geolocation/badges/gpa.svg)](https://codeclimate.com/github/radjivC/node-geolocation) [![Test Coverage](https://codeclimate.com/github/radjivC/node-geolocation/badges/coverage.svg)](https://codeclimate.com/github/radjivC/node-geolocation)  [![Inline docs](http://inch-ci.org/github/radjivC/node-geolocation.svg?branch=master)](http://inch-ci.org/github/radjivC/node-geolocation)
 
 How to use google maps knowledge with node.js 
 https://www.npmjs.com/package/node-geolocation
