@@ -30,8 +30,8 @@
     "url": "https://github.com/radjivC/node-geolocation/issues"
   },
   "dependencies": {
-    "node-geocoder": "^2.12.0",
-    "google-distance": "^0.2.1"
+    "node-geocoder": "^2.17.0",
+    "google-distance": "^1.0.1"
   },
   "main": "./lib/geolocation.js",
   "files": [
