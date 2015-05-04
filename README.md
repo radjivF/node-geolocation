@@ -43,3 +43,7 @@ var distance = geolocation.distanceBetweenTwoAdress('Paris, France','New-York ci
 MIT License. See LICENSE for details.
 
 Enjoy !!!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/radjivC/node-geolocation/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
